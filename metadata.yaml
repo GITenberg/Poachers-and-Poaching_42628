@@ -1,0 +1,26 @@
+_repo: Poachers-and-Poaching_42628
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42628-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Watson, John, F.L.S.
+    deathdate: 1928
+    gutenberg_agent_id: '42785'
+    url: http://www.gutenberg.org/2009/agents/42785
+description: ''
+gutenberg_issued: '2013-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42628'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poaching -- Great Britain'
+- !lcc 'SK'
+- !lcsh 'Poachers -- Great Britain'
+title: Poachers and Poaching
+url: http://www.gutenberg.org/ebooks/42628
